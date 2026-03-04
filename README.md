@@ -22,11 +22,5 @@ Two different advanced control techniques were implemented and compared:
 
 ## 📊 Results
 The simulations demonstrate the robot's ability to recover from external disturbances and reach the target position with minimal overshoot. The MPC controller showed superior performance in handling physical actuator constraints compared to the standard LQR.
-
-## 📂 Repository Structure
-* `Matlab_Simulink/`: Source code, initialization scripts, and `.slx` simulation files.
-* `Report/`: Full thesis dissertation (PDF) and defense presentation (PPTX).
-* `Media/`: Plots of state variables (position, theta) and 3D simulation captures.
-
 ---
 *Note: This project was supervised by Prof. Giuseppe Oriolo.*
